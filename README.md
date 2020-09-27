@@ -1,4 +1,4 @@
-#Installation
+# Installation
 Create and activate your virtual environment
 ```bash
 pip instal virtualenv
@@ -11,7 +11,7 @@ Then install all necessary packages from requirements.txt
 pip install -r requirements.txt
 ```
 
-#Running Haikyuu Search Engine
+# Running Haikyuu Search Engine
 Begin the crawling process so that all data is extracted
 ```bash
 python manage.py crawl
